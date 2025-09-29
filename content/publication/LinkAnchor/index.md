@@ -4,7 +4,6 @@ authors:
 - Arshia Akhavan
 - admin
 - Mehdi Keshani
-- Amir M. Mir
 - Abbas Heydarnoori
 author_notes:
 - "Equal contribution"
