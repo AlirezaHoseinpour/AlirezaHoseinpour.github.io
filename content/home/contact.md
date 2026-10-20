@@ -23,8 +23,8 @@ content:
   contact_links:
     - icon: building-columns
       icon_pack: fas
-      link: mailto:ahosein@bgsu.edu
-      name: ahosein@bgsu.edu
+      link: mailto:ahose@uic.edu
+      name: ahose@uic.edu
     - icon: github
       icon_pack: fab
       name: GitHub

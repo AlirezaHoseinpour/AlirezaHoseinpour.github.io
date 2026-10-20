@@ -15,11 +15,11 @@ publishDate: "2023-10-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ECCV OOD Workshop"
-publication_short: ""
+publication: "ECCV Workshop on Out-of-Distribution Generalization in Computer Vision (OOD-CV)"
+publication_short: "ECCV Workshop"
 
 abstract: This paper addresses the challenge of sub-optimal performance in deep neural networks trained for image classification under non-matching distribution scenarios. Spurious correlations, patterns in training data irrelevant to objects, can lead to accuracy loss during testing. We assess the robustness of pre-trained models to spurious correlations by subjecting them to datasets containing such correlations. We compare the effectiveness of two training methods; fine-tuning and backbone freezing. Additionally, we explore the impact of robust training on our model collection by applying the DFR method to both frozen and fine-tuned model backbones.
 

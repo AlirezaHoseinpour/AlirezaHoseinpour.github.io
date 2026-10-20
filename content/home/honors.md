@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 2'nd place BGSU ACM Hackathon
+  - title: 2nd Place, BGSU ACM Hackathon
     company: BGSU ACM
     company_url: 'https://main.d3pmeorbdqi2ck.amplifyapp.com/'
     company_logo: bgsu
-    location: USA, Ohio
+    location: Bowling Green, OH
     date_start: '2025-04-06'
     date_end: '2025-04-07'
     description: |2-
-        * Awarded for creating [Piqniq](https://github.com/kianakiashemshaki/Hackathon), an intelligent emergency alert app designed to support users through panic attacks.
+        * Awarded for developing [Piqniq](https://github.com/kianakiashemshaki/Hackathon), an emergency alert app designed to support users during panic attacks.
 
 design:
   columns: '2'

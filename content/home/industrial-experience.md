@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Industrial Experience
+title: Industry Experience
 subtitle:
 
 # Date format for experience
@@ -33,7 +33,7 @@ experience:
         Digikala is the largest e-commerce company in Iran with 40+ million users.
             </br>
         **Experiences:**
-        * Developed scalable systems, optimizing high-traffic promotions and building real-time user interaction infrastructure.
+        * Developed scalable systems and real-time user interaction infrastructure to support high-traffic promotions.
         * Engineered software for two Black Friday events, with zero downtime and meeting commercial goals.
 
         **Technologies:** PHP, Redis, Memcached, Kafka, MySQL, REST APIs, Jenkins, GitLab, Git, Scrum.
@@ -45,10 +45,11 @@ experience:
     date_start: '2021-02-01'
     date_end: '2023-08-01'
     description: |2-
-        A novel cloud-based IoT platform for smart home appliances, developed in partnership with Sharif University of Technology’s startup accelerator.
+        AYOT is an IoT platform for smart home appliances in partnership with Sharif University of Technology’s startup accelerator.
             </br>
         **Experiences:**
-        * Supported MVP development and mentored interns from the Computer Engineering department.
+        * Developed the engine for cross-company IoT device interoperability.
+        * Mentored interns from the Computer Engineering department.
 
         **Technologies:** Python, FastAPI, PostgreSQL, Kafka, Redis, Docker, REST APIs, MQTT.
 
@@ -61,10 +62,10 @@ experience:
     date_start: '2022-01-01'
     date_end: '2022-09-01'
     description: |2-
-        Tapsell is one of the largest ad-infrastructure providing companies in Iran.
+        Tapsell is a leading AdTech company in Iran.
             </br>
         **Experiences:**
-        * Designed and implemented the software for Tapsell’s new Creative Management Platform (CMP) product from scratch. 
+        * Designed and implemented Tapsell’s Creative Management Platform (CMP) product from scratch.
 
         **Technologies:** Java, Kotlin, Spring Boot, Redis, MongoDB, PostgreSQL, REST APIs, Caffeine, Kubernetes, GitLab CI/CD, Maven, Git, JUnit, Mockito, Scrum.
 
@@ -76,7 +77,7 @@ experience:
     date_start: '2019-02-01'
     date_end: '2019-09-01'
     description: |2-
-        Faraz Pardazan is a software company focused on developing digital solutions for banking, payments, and financial services.
+        Farazpardazan develops advanced digital solutions for banking, payments, and financial services.
             </br>
         **Experiences:**
         * Contributed to "Hamrah Novin", the official mobile banking application of [EN Bank](https://en.wikipedia.org/wiki/EN_Bank).

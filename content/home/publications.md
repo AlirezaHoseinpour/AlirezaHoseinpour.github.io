@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Publications
+title: Peer-Reviewed Publications
 subtitle: ''
 
 content:
@@ -19,7 +19,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '1'
     author: ''
     exclude_featured: false
     exclude_future: false

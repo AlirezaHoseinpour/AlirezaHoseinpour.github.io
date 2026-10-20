@@ -23,18 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Sponsorship & Marketing Team Member, General Staff
-    company: She’r ta Code (first)
+  - title: Sponsorship & Organizing Team
+    company: She’r ta Code (First Edition)
     # company_url: ''
     company_logo: codeosher
     location: Tehran
     date_start: '2023-11-01'
     date_end: '2024-04-01'
     description: |2-
-        * She’r ta Code is a Spaghetti Code Challange which focuses on UBs and exploits architectural behaviors of Computers and compilers with the aim of hosting an environment for contestants to become more familiar with the field of computer systems.
-            </br> </br>
-        * Contributed as part of the sponsorship and marketing team, helping to secure support and promote the event.
-        * Assisted with organizational tasks, ensuring that the competition ran smoothly.
+        A spaghetti-code contest built around undefined behavior and compiler and architecture quirks.
 
 design:
   columns: '2'
